@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsh:home|Door43 (tsh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsh|d43-tsh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsh/archive/master.zip|d43-tsh.zip]]
+
+**Recent Changes**
+{{changes>ns = tsh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsh|Ethnologue data]]
+
